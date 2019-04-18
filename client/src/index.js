@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
+import 'semantic-ui-css/semantic.css'
+import './index.css';
 // This line may impact the ability for us to access active_admin
 //import * as serviceWorker from './serviceWorker';
 
